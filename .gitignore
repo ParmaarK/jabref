@@ -37,6 +37,9 @@ ui/
 node_modules/
 npm-debug.log
 
+# snapcraft
+parts/
+
 # UNKNWON
 jabref.xml
 *.sonargraph
